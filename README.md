@@ -5,7 +5,7 @@
 <br>
 <br>
 <a href="https://github.com/valentias/">
-        <img src="https://komarev.com/ghpvc/?username=Prwzrq&color=red" />
+        <img src="https://komarev.com/ghpvc/?username=valentias&color=red" />
   </a> 
 <br>
 <br>
