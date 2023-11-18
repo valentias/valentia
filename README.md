@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm [@valentias](https://github.com/valentias)
 - My name is Murat, I'm in high school, I'm a developer.
 - I usually work on Javascript.
-- If you have a problem contact me on [discord.com](https://discord.com/users/886599539123978260) 🌹
+- If you have a problem contact me on [Valentia](https://discord.com/users/886599539123978260) 🌹
 <br>
 <br>
 <a href="https://github.com/valentias/">
