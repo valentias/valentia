@@ -15,6 +15,7 @@
 - We also provide special support for junior developers ^_^
 - We host server-specific open source codes.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/886599539123978260)](https://discord.com/users/886599539123978260)
 
 [YouTube](https://youtube.com/@valentias)
 [İnstagram](https://instagram.com/valenti.as)
