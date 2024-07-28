@@ -1,14 +1,12 @@
-# 👋 Hello there, I'm [@valentias](https://github.com/valentias)
-- My name is Valentia, I'm in high school, I'm a developer.
-- I usually work on Javascript.
-- If you have a problem contact me on [Valentia](https://discord.com/users/1198674796255395941) 🌹
-<br>
-<br>
-<a href="https://github.com/valentias/">
-        <img src="https://komarev.com/ghpvc/?username=valentias&color=red" />
-  </a> 
-<br>
-<br>
+<div align="center">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=ffffff&center=true&width=435&lines=valentia">
+</div>
 
+<div align="center">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=valentias&color=070000">
+</div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1198674796255395941)](https://discord.com/users/1198674796255395941)
+#
+
+<div align="center">
+  <img src="https://lanyard.kyrie25.me/api/341592492224806914?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
