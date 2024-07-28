@@ -1,5 +1,5 @@
 # 👋 Hello there, I'm [@valentias](https://github.com/valentias)
-- My name is Murat, I'm in high school, I'm a developer.
+- My name is Valentia, I'm in high school, I'm a developer.
 - I usually work on Javascript.
 - If you have a problem contact me on [Valentia](https://discord.com/users/1198674796255395941) 🌹
 <br>
